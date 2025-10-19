@@ -1,4 +1,4 @@
-module github.com/ssss1131/go-practice4
+module github.com//superpuperteam/Golang/practice4
 
 go 1.25.1
 
